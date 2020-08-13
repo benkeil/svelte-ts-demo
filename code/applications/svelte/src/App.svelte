@@ -2,7 +2,7 @@
   import FooImpl from "@project/adapters/src/FooImpl";
   import type Foo from '@project/core/src/Foo';
   const foo: Foo = new FooImpl();
-  let name: string;
+  export let name: string;
 </script>
 
 <main>
