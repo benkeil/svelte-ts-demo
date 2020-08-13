@@ -1,0 +1,19 @@
+{
+  "name": "@project/core",
+  "version": "0.0.0",
+  "description": "...",
+  "repository": "...",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "typings": "dist/index.d.ts",
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@types/node": "^8.10.17",
+    "ts-node": "^8.5.2",
+    "typescript": "^3.8.3"
+  }
+}
