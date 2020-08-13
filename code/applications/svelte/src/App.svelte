@@ -1,7 +1,7 @@
 <script lang="ts">
   import FooImpl from "@project/adapters/src/FooImpl";
   import type Foo from '@project/core/src/Foo';
-  const foo = new FooImpl();
+  const foo: Foo = new FooImpl();
   let name: string;
 </script>
 
